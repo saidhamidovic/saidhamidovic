@@ -31,6 +31,7 @@ Teknikdriven och lösningsorienterad IT- och nätverkssäkerhetsstuderande med e
 
 ### 🚀 Utvalda Projekt & Praktisk Erfarenhet
 
+* **[🛰️ BeaconHunter](https://github.com/saidhamidovic/beacon-hunter)** – Statistisk Threat Hunting-motor i Python/Scapy för att detektera C2-beaconing (Cobalt Strike, Sliver), TLS JA3-fingeravtryck och DNS-tunneling (Shannon-entropi) med MITRE ATT&CK-mappning.
 * **[🛰️ WatchDog](https://github.com/saidhamidovic/network-watchdog)** – Egenutvecklat övervakningsverktyg i Python och Docker. Utför automatisk nätverksskanning via `nmap`, detekterar ARP-spoofing (avvikande gateway-MAC) i realtid och skickar push-larm via ntfy samt integrerar autentiseringsloggar mot fail2ban.
 * **[🔐 CakoVault](https://github.com/saidhamidovic/CakoVault)** – Beroendefritt terminalverktyg för säker kryptering i Python med PBKDF2 (100 000 iterationer) och dynamisk saltning.
 * **🏢 Enterprise-style Homelab** – Fysiskt redundant Proxmox VE-kluster med High Availability för VM och LXC, OPNsense-brandvägg med strikt zonindelning (VLAN), Nginx reverse proxy med TLS samt ZFS (RAID-Z) med automatiserad Proxmox Backup Server.
